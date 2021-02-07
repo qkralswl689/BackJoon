@@ -7,12 +7,7 @@ public class if_2884 {
 		int h = sc.nextInt();
 		int m = sc.nextInt();
 		
-		if ((0 <= h || h <= 23) || (m>= 0 || m <= 59)) {
-			if(true) {
-				
-			}
-		}
-
+		
 	}
 
 }
