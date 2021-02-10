@@ -6,9 +6,16 @@ public class array_10818 {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		
+			
 	}
-
 }
+		
+
+		
+
+		
+
+	
         	
 			
 
